@@ -417,7 +417,10 @@ Total deals: 464
 | 💵 | [KingSumo](https://kingsumo.com) | Grow your email list faster with viral giveaways. Create unlimited giveaways, integrate directly with your email tool, and set up Zapier or API access. | $49 Lifetime deal<br>**Extra 10% off for Black Friday**
 | 💵 | [SendFox](https://sendfox.com) | The affordable, simple email marketing solution. Organize your contacts, grow your email list, and set up scheduled emails or automations to communicate with your audience. Includes Zapier and API access. Alternative to Mailchimp. | $49 Lifetime deal<br>**Extra 10% off for Black Friday**
 | 💵 | [TidyCal](https://tidycal.com) | The easiest way to manage your calendar. Get more bookings — without the stress. Integrate your calendar, meeting URLs, Zapier, API, and more to make calendar management simple. Set up free meetings, paid meetings, group calls, and tons more. Alternative to Calendly. | $29 Lifetime deal<br>**Extra 10% off for Black Friday**
-
+| 💵 | [GoZen Content.Ai](https://appsumo.com/products/gozen-contentai/) | Uses AI to generate unique SEO content and graphics for any platform at scale. Research unlimited keywords and generate SEO content using 100+ AI-powered templates. | $49 Lifetime deal<br>**Extra 10% off for Black Friday**
+| 💵 | [NeuronWriter](https://appsumo.com/products/neuronwriter/) | A packed with AI-powered research and writing tools to help you plan content that ranks high on Google. Uses semantic recommendations to boost your SEO and plan high-ranking content. | $89 Lifetime deal<br>**Extra 10% off for Black Friday**
+| 💵 | [Speechki](https://appsumo.com/products/speechki/)) | A text-to-speech plugin that lets you connect to ChatGPT and transform any text into natural-sounding audio content. Uses an AI voice generator to convert any text into natural-sounding speech. | $59 Lifetime deal<br>**Extra 10% off for Black Friday**
+| 💵 | [LeadRocks](https://appsumo.com/products/leadrocks/)) | A reliable B2B contact database with 100M+ records, emails, phone numbers, and LinkedIns. | $79 Lifetime deal<br>**Extra 10% off for Black Friday**
 
 [⬆️ Go to Top](#table-of-contents)
 
